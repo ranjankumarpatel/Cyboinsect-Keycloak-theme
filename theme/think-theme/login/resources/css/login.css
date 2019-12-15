@@ -500,7 +500,7 @@ input {
 
 .card-3 .card-heading {
   /* background-color: #4dae3c; */
-  /* background: url('${url.resourcesPath}/img/1.jpg') top left/cover no-repeat; */
+  /* background: url('${url.resourcesPath}/img/auth-bg.jpg') top left/cover no-repeat; */
   display: table-cell;
   width: 50%;
 }

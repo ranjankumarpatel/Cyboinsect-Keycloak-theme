@@ -9,7 +9,7 @@
 			<div class="wrap-vf">
 				<div class="vf-form-title" style="background-color:#f0e3f4">
                 <div>
-                <img src="${url.resourcesPath}/img/favicon.png" atl="logo" />
+                <img src="${url.resourcesPath}/img/favicon.ico" atl="logo" />
 					</div>
                     <span class="vf-form-title-1">
 						Email Verification

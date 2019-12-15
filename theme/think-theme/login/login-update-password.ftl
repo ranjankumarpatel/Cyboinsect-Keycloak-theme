@@ -2,11 +2,11 @@
 <@layout.registrationLayout displayInfo=true; section>
 <#if section = "header">
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
-<link href="${url.resourcesPath}/img/favicon.png" rel="icon"/>
+<link href="${url.resourcesPath}/img/favicon.ico" rel="icon"/>
 
 <#elseif section = "form">
 <div class="card card-3">
-<div class="card-heading" style="background: url('${url.resourcesPath}/img/1.jpg') top left/cover no-repeat;background-color:#F0E3F4">
+<div class="card-heading" style="background: url('${url.resourcesPath}/img/auth-bg.jpg') top left/cover no-repeat;background-color:#F0E3F4">
 </div>
 <#if realm.password>
 <div class="card-body">

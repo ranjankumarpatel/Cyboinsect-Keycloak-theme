@@ -7,7 +7,7 @@ ${msg("loginTitle",(realm.displayName!''))}
 <script></script>
 <#elseif section = "form">
 <div class="card card-3">
-<div class="card-heading" style="background: url('${url.resourcesPath}/img/1.jpg') top left/cover no-repeat;"></div>
+<div class="card-heading" style="background: url('${url.resourcesPath}/img/auth-bg.jpg') top left/cover no-repeat;"></div>
 <#if realm.password>
 <div class="card-body">
 <div style="text-align:center;">

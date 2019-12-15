@@ -8,7 +8,7 @@ ${msg("registerTitle")}
 
 <#elseif section = "form">
 <div class="card card-3">
-<div class="card-heading" style="background: url('${url.resourcesPath}/img/1.jpg') top left/cover no-repeat;background-color:#F0E3F4"></div>
+<div class="card-heading" style="background: url('${url.resourcesPath}/img/auth-bg.jpg') top left/cover no-repeat;background-color:#F0E3F4"></div>
 <#if realm.password>
 </#if>
 <#if realm.password>
